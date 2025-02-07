@@ -10,6 +10,7 @@ dependencies:
   dio: ^5.8.0+1
   flutter:
     sdk: flutter
+  flutter_command: ^7.2.2
   provider: ^6.1.2
 
 dev_dependencies:
